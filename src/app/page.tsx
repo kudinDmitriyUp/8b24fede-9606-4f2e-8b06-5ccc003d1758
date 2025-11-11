@@ -67,27 +67,27 @@ export default function Home() {
 
       <div id="feature" data-section="feature">
         <FeatureCardFour
-          title="Dreamy Solutions That Deliver"
-          description="We combine creativity with strategy to create solutions that not only look beautiful but drive real results for your business."
+          title="Dreamy Solutions That Deliver Results"
+          description="We combine creativity with strategy to create solutions that not only look beautiful but drive measurable business outcomes and tangible ROI for your company."
           features={[
             {
               title: "Brand Strategy",
-              description: "We dive deep into your brand's essence to create a strategy that resonates with your audience and sets you apart from the competition.",
+              description: "We dive deep into your brand's essence to create data-driven strategies that increase brand recognition by 150% and boost customer engagement by 80% within 6 months.",
               icon: Target
             },
             {
               title: "Creative Design",
-              description: "Our team of visionary designers craft stunning visuals that tell your story and create lasting impressions across all touchpoints.",
+              description: "Our award-winning designers craft stunning visuals that deliver 3x higher conversion rates and 250% more social engagement compared to industry standards.",
               icon: Palette
             },
             {
               title: "Digital Marketing",
-              description: "From social media to content marketing, we develop campaigns that engage your audience and drive meaningful connections.",
+              description: "Our targeted campaigns generate an average 320% ROI and help businesses achieve 2.5x more leads while reducing customer acquisition costs by 40%.",
               icon: TrendingUp
             },
             {
               title: "Web Development",
-              description: "We build responsive, user-friendly websites that showcase your brand and provide seamless experiences across all devices.",
+              description: "We build lightning-fast, conversion-optimized websites that load 5x faster than average, resulting in 35% lower bounce rates and 60% higher user engagement.",
               icon: Code
             }
           ]}
